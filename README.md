@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NexyDevs
+- 👀 I’m interested in game developement
+- 🌱 I’m currently learning LuaU & JS
+- 💞️ I’m looking to collaborate on UDF
+- 📫 How to reach me Nexy#5279
